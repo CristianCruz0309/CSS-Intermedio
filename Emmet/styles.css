@@ -1,0 +1,13 @@
+header {
+    padding: 10px; /*p10*/
+    margin: 10px 20px; /*m10-20*/
+    background-color: #ccc; /*bc#ccc*/
+    color: #333; /*c#333*/
+    border: 1px solid #000; /*bd*/
+    width: 100px; /*w100*/
+    height: 100%; /*h100p*/
+    overflow: hidden; /*o*/
+    z-index: 2; /*z*/
+}
+
+/* */

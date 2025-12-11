@@ -1,0 +1,24 @@
+/* SELECTOR DE ATRIBUTO */
+img[src="Camilo.jpeg"] {
+    width: 100%;
+}
+
+/* SELECCIÓN DESCENDIENTE */
+ul li {
+    color: #666;
+}
+
+/* SELECTOR POR HIJO DIRECTO */
+li > em {
+    color: red;
+}
+
+/* SELECTOR DE HERMANO ADYACENTE */
+h1 + p {
+    color: blue;
+}
+
+/* SELECTOR DE HERMANOS GENERALES */
+h1 ~ p {
+    color: blue;
+}

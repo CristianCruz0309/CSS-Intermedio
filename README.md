@@ -1,5 +1,8 @@
 # 🎨 CSS Intermedio | Layout, Selectores y Buenas Prácticas
 
+![CSS3 Badge](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 Repositorio enfocado en **CSS Intermedio**, donde se profundiza en el funcionamiento interno del lenguaje, control de layout, selectores avanzados y metodologías modernas para escribir estilos escalables y mantenibles.
 
 Este proyecto forma parte de mi **roadmap de Front-End**, consolidando habilidades clave antes de avanzar a animaciones complejas, Flexbox, Grid y CSS avanzado.
